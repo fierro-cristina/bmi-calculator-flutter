@@ -1,8 +1,10 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+A new Flutter project to generically calculate BMI.
 
 ## Getting Started
+
+This project was created and built on android studio, but feel free to edit it on VSCode. Make sure to have Flutter and Dart installed prior to continuing.
 
 This project is a starting point for a Flutter application.
 
